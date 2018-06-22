@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a84411-5663-44a0-86a5-020ecae48e7c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/arraysandstrings/OneAway.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraysandstrings/PalindromePermutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraysandstrings/PalindromePermutation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalindromePermutation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PalindromePermutation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arraysandstrings/PalindromePermutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="579">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneAway.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arraysandstrings/OneAway.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="639">
+              <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -59,6 +68,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/arraysandstrings/URLifyString.java" />
         <option value="$PROJECT_DIR$/src/arraysandstrings/PalindromePermutation.java" />
+        <option value="$PROJECT_DIR$/src/arraysandstrings/OneAway.java" />
       </list>
     </option>
   </component>
@@ -130,13 +140,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PalindromePermutation">
+  <component name="RunManager" selected="Application.OneAway">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="CTCIProblems" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="OneAway" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysandstrings.OneAway" />
+      <module name="CTCIProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraysandstrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="PalindromePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arraysandstrings.PalindromePermutation" />
@@ -177,9 +197,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.URLifyString" />
       <item itemvalue="Application.PalindromePermutation" />
+      <item itemvalue="Application.OneAway" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OneAway" />
         <item itemvalue="Application.PalindromePermutation" />
         <item itemvalue="Application.URLifyString" />
       </list>
@@ -196,12 +218,12 @@
       <option name="presentableId" value="Default" />
       <updated>1529579286378</updated>
       <workItem from="1529579293778" duration="3210000" />
-      <workItem from="1529653091814" duration="488000" />
+      <workItem from="1529653091814" duration="2543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3708000" />
+    <option name="totallyTimeSpent" value="5753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="6" />
@@ -217,7 +239,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -257,8 +279,14 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/arraysandstrings/PalindromePermutation.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -299,8 +327,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/arraysandstrings/PalindromePermutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="579">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraysandstrings/OneAway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="60" column="20" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
         </state>
       </provider>
     </entry>
