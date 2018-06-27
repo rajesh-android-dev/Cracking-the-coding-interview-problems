@@ -2,5 +2,9 @@ package linkedlist;
 
 public class LinkedListNode {
         public LinkedListNode next;
-        public String data;
+        public int data;
+
+        public LinkedListNode(int data){
+            this.data = data;
+        }
     }
