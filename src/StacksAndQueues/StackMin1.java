@@ -20,7 +20,7 @@ public class StackMin1 extends Stack<Integer> {
         super.push(value);
     }
 
-    public int pop() {
+    public Integer pop() {
         int value = super.pop();
         if (value == min()) s2.pop();
         return value;
