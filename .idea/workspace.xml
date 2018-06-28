@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a84411-5663-44a0-86a5-020ecae48e7c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arraysandstrings/StacksAndQueues/ThreeInOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arraysandstrings/StacksAndQueues/StackMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReturnToKth.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedlist/ReturnToKth.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DeleteMiddleNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/linkedlist/DeleteMiddleNode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -90,19 +81,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThreeInOne.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreeInOne.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/arraysandstrings/StacksAndQueues/ThreeInOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
               <folding>
-                <element signature="e#731#732#0" expanded="true" />
-                <element signature="e#800#801#0" expanded="true" />
                 <element signature="e#636#637#0" expanded="true" />
                 <element signature="e#664#665#0" expanded="true" />
                 <element signature="e#796#797#0" expanded="true" />
                 <element signature="e#839#840#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StackMin.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/arraysandstrings/StacksAndQueues/StackMin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -148,6 +146,7 @@
         <option value="$PROJECT_DIR$/src/linkedlist/Intersection.java" />
         <option value="$PROJECT_DIR$/src/linkedlist/LoopDetection.java" />
         <option value="$PROJECT_DIR$/src/arraysandstrings/StacksAndQueues/ThreeInOne.java" />
+        <option value="$PROJECT_DIR$/src/arraysandstrings/StacksAndQueues/StackMin.java" />
       </list>
     </option>
   </component>
@@ -325,12 +324,12 @@
       <workItem from="1529911909745" duration="365000" />
       <workItem from="1529993194022" duration="4668000" />
       <workItem from="1530077859994" duration="5473000" />
-      <workItem from="1530160917057" duration="1193000" />
+      <workItem from="1530160917057" duration="2275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22480000" />
+    <option name="totallyTimeSpent" value="23562000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
@@ -346,7 +345,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32960895" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -403,13 +402,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/linkedlist/Intersection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedlist/LinkedListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -758,16 +750,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/arraysandstrings/StacksAndQueues/ThreeInOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="225">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
           <folding>
-            <element signature="e#731#732#0" expanded="true" />
-            <element signature="e#800#801#0" expanded="true" />
             <element signature="e#636#637#0" expanded="true" />
             <element signature="e#664#665#0" expanded="true" />
             <element signature="e#796#797#0" expanded="true" />
             <element signature="e#839#840#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arraysandstrings/StacksAndQueues/StackMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
         </state>
       </provider>
     </entry>
