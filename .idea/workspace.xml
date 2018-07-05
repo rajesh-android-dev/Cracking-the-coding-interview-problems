@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6a84411-5663-44a0-86a5-020ecae48e7c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TreesAndGraphs/MinimalTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreesAndGraphs/ValidateBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreesAndGraphs/Successor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CTCIProblems/arraysandstrings/StringRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CTCIProblems/arraysandstrings/StringRotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/SumLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/SumLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,14 +46,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidateBST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidateBST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TreesAndGraphs/ValidateBST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="116">
+              <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
               <folding>
-                <element signature="e#976#977#0" expanded="true" />
-                <element signature="e#1000#1001#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Successor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TreesAndGraphs/Successor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#493#494#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,11 +85,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumLists.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedlist/SumLists.java">
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            <state relative-caret-position="90">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -93,15 +103,6 @@
                 <element signature="e#152#153#0" expanded="true" />
                 <element signature="e#192#193#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -174,11 +175,12 @@
         <option value="$PROJECT_DIR$/src/TreesAndGraphs/Graph.java" />
         <option value="$PROJECT_DIR$/src/TreesAndGraphs/Node.java" />
         <option value="$PROJECT_DIR$/src/TreesAndGraphs/RoutesBWNodes.java" />
-        <option value="$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/TreesAndGraphs/MinimalTree.java" />
         <option value="$PROJECT_DIR$/src/linkedlist/SumLists.java" />
         <option value="$PROJECT_DIR$/src/TreesAndGraphs/CheckBalanced.java" />
         <option value="$PROJECT_DIR$/src/TreesAndGraphs/ValidateBST.java" />
+        <option value="$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/TreesAndGraphs/Successor.java" />
       </list>
     </option>
   </component>
@@ -361,12 +363,12 @@
       <workItem from="1530510511197" duration="6015000" />
       <workItem from="1530594311102" duration="4505000" />
       <workItem from="1530685793746" duration="1511000" />
-      <workItem from="1530767309079" duration="1009000" />
+      <workItem from="1530767309079" duration="1514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39868000" />
+    <option name="totallyTimeSpent" value="40373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
@@ -445,13 +447,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/arraysandstrings/URLifyString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -738,13 +733,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/linkedlist/SumLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -821,11 +809,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TreesAndGraphs/ValidateBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="116">
+          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
           <folding>
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreesAndGraphs/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TreesAndGraphs/Successor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+          <folding>
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
           </folding>
         </state>
       </provider>
