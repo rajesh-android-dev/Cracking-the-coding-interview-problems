@@ -27,7 +27,7 @@ public class SumLists {
             value += l2.data;
         }
 
-        LinkedListNode result = new LinkedListNode();
+        LinkedListNode result = new LinkedListNode(value);
         result.data = value % 10; /* Second digit of number */
 
         if (l1 != null || l2 != null) {
